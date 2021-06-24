@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-priscila",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "714f3445-50e4-4ac3-9281-01130f6e34e6",
+		"tenantId": "b4920c82-7581-491a-9dab-cd2ade2f3ebd"
+	}
+}
