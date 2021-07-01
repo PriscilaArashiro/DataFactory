@@ -15,18 +15,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/priscila.arashiro@blueshift.com.br/12-Production-Workloads-with-Azure-Data-Factory/Record-Run",
-					"baseParameters": {
-						"ranBy": "ADF"
-					},
-					"libraries": [
-						{
-							"jar": ""
-						}
-					]
+					"notebookPath": "/Users/priscila.arashiro@blueshift.com.br/12-Production-Workloads-with-Azure-Data-Factory/Record-Run"
 				},
 				"linkedServiceName": {
-					"referenceName": "DF_databricksPri",
+					"referenceName": "Lk_Databricks",
 					"type": "LinkedServiceReference"
 				}
 			}
